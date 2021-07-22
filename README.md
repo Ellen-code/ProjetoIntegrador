@@ -14,7 +14,7 @@ Projeto Integrador referente ao bootcamp da Generation da Turma 22. Tema: Rede s
 
 Projeto Integrador do _Grupo 02_ desenvolvido no _Bootcamp Generation_.
 
-**Cafuné Matero** Cafuné Materno é uma rede social desenvolvida para mães, gestantes, e mulheres (cis,trans) que estão planejando a maternidade. Busca-se promover o bem-estar, os cuidados com a saúde, a troca de experiências e conhecimentos. A informação é algo que valorizamos e temos por finalidade ajudar a tornar a maternidade uma experiência segura, acolhedora e democrática. 
+**Cafuné Materno** é uma rede social desenvolvida para mães, gestantes, e mulheres (cis,trans) que estão planejando a maternidade. Busca-se promover o bem-estar, os cuidados com a saúde, a troca de experiências e conhecimentos. A informação é algo que valorizamos e temos por finalidade ajudar a tornar a maternidade uma experiência segura, acolhedora e democrática. 
 
 Para desenvolver esse projeto seguimos um dos 17 objetivos da ONU para a Agenda 2030, a **ODS 3 – Saúde e Bem-estar**. Ela propõe assegurar uma vida saudável e promover o bem-estar para todos, em todas as idades, e engloba três metas integradas relacionadas à maternidade, descritas abaixo:
 
